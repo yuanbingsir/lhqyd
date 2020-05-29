@@ -1,0 +1,6 @@
+html,body,#app{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(26,25,56);
+    height: 100%;
+  }
